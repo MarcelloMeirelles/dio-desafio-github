@@ -1,0 +1,14 @@
+Comandos mais importantes do git
+
+
+Git init = Cria um repositorio vazio
+Git clone = Para baixar o codigo fonte de algum repositorio ja existente
+Git branch = Para criar uma branch nova, para que seja possivel varias pessoas trabalharem no mesmo projeto
+Git status = Para checar se esta tudo indo nos conformes (atualizado)
+Git checkout = Para mudar de uma branch para outra
+Git commit = Para criar um ponto de verificacao se necessario voltar depois
+Git push = Envia e salva suas alteracoes para o servidor remoto
+Git pull = Ira puxar informacoes do repositorio original para o meu
+Git revert = Desfaz os commits de maneira segura
+Git merge = Mescla todas as branches criadas
+Git add = Adiciona arquivos desejados
